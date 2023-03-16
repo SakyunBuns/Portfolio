@@ -5,9 +5,6 @@ import Hamburger from './HamburgerMenu';
 export default function NavBar() {
   return (
     <>
-      <div className="header">
-        <a href="">Top of Page</a>
-      </div>
       <div className='nav'>
         <div className="info">
           <img src="./src/images/mitchPixel.png" alt="PhotoProfil" id="profil" />
